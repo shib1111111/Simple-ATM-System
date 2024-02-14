@@ -40,9 +40,8 @@ This **Simple ATM System** is a simple command-line interface application writte
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/atm1.jpg" alt="Index Page" width="200" height="1800"/></td>
-    <td><img src="screenshots/atm2.jpg" alt="Index Page" width="200" height="1800"/></td>
-    <td><img src="screenshots/atm3.jpg" alt="Index Page" width="200" height="1800"/></td>
+    <td><img src="screenshots/atm1.jpg" alt="Index Page" width="700" height="1800"/></td>
+    <td><img src="screenshots/atm2.jpg" alt="Index Page" width="700" height="1800"/></td>
 
   </tr>
   
