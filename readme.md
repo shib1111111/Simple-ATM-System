@@ -3,14 +3,6 @@
 ## Overview:
 This **Simple ATM System** is a simple command-line interface application written in Python. It allows users to perform basic banking operations such as logging in, creating an account, depositing money, withdrawing money, transferring funds to other accounts, checking balance, and changing PIN.
 
-## Getting Started:
-To get started with the **Simple ATM System**, follow these steps:
-1. Ensure you have Python installed on your system.
-2. Download or clone this repository containing the ```atm.py``` script.
-3. Open a terminal or command prompt and navigate to the directory where ```atm.py``` is located.
-4. Run the ```atm.py``` script by executing the command ```python atm.py```.
-5. Follow the prompts to navigate through the ATM system and perform banking operations.
-
 ## Features:
 1. **User Authentication:** Users can log in securely using their user ID and PIN.
 2. **Account Creation:** New users can create an account with a unique user ID and PIN.
@@ -46,6 +38,13 @@ To get started with the **Simple ATM System**, follow these steps:
 5. **Exiting the Program:**
    - Users can exit the program by selecting the appropriate option from the main menu.
 
+<table align="center">
+  <tr>
+    <td><img src="screenshots/atm.jpg" alt="Index Page" width="800" height="1800"/></td>
+  </tr>
+  
+</table>
+
 ## Data Persistence:
 - User data is stored in a JSON file named `users.json`.
 - User accounts and their associated information are loaded from and saved to this file to ensure data persistence between sessions.
@@ -56,6 +55,15 @@ To get started with the **Simple ATM System**, follow these steps:
 
 ## Error Handling:
 - The system includes error handling to manage invalid inputs, insufficient funds, and other exceptional scenarios.
+
+## Getting Started:
+To get started with the **Simple ATM System**, follow these steps:
+1. Ensure you have Python installed on your system.
+2. Download or clone this repository containing the ```atm.py``` script.
+3. Open a terminal or command prompt and navigate to the directory where ```atm.py``` is located.
+4. Run the ```atm.py``` script by executing the command ```python atm.py```.
+5. Follow the prompts to navigate through the ATM system and perform banking operations.
+
 
 ## Contributing<a name="contributing"></a>
 
